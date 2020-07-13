@@ -4,12 +4,13 @@ This is a coding exercise to show your skills in handling CSV files using the Go
 
 The workflow is simple:
 
-- Clone this repository
+- Fork this repository to a **private repo**
 - Read the problem statement below
 - Spend about 90 minutes writing code/tests for it
 - Stick to the standard library
 - Feel free to consult any docs about it
-- Proceed and commit as you would in a normal project at work
+- Code and commit and **open a pull request** as you would in a normal project at work
+- Invite us to the private repo for review
 
 There are obviously no right or wrong answers here; this is just a foundation for us to have a conversation about your motivations for taking a particular approach, the compromises involved, and your thoughts in scaling and operating this kind of tool in production.
 
