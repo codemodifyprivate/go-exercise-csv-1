@@ -9,7 +9,7 @@ The workflow is simple:
 - Spend about 90 minutes writing code/tests for it
 - Stick to the standard library
 - Feel free to consult any docs about it
-- Proceed and **open a pull request** as you would in a normal project at work
+- Code and commit and **open a pull request** as you would in a normal project at work
 - Invite us to the private repo for review
 
 There are obviously no right or wrong answers here; this is just a foundation for us to have a conversation about your motivations for taking a particular approach, the compromises involved, and your thoughts in scaling and operating this kind of tool in production.
