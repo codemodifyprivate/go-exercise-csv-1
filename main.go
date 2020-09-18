@@ -8,6 +8,8 @@ import (
 	"log"
 	"os"
 	"path/filepath"
+
+	"github.com/codemodifyprivate/go-exercise-csv-1/helpers"
 )
 
 var flagDir = flag.String("dir", "", "directory containing CSVs")
@@ -38,5 +40,6 @@ func main() {
 	}
 
 	// read and consolidate csvs...
-	fmt.Println("1,a,b,c...")
+	oneBigCSV := helpers.ProcessCSVs(csvs)
+	helpers.PrintCSVFile(oneBigCSV)
 }
